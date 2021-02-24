@@ -1,2 +1,1 @@
-# eshwar
-Clustering K-Mean with visual
+Clustering K-Mean with visualisation
